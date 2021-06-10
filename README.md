@@ -11,5 +11,5 @@ This program uses the scanning method to find up, bottom, left, right coordinate
 ## Test run
 
 1. Prepare a binary image (black and white image where the black value is 0 and the white value is 255).
-2. Name the image as [test.png](https://github.com/hafiz-kamilin/uneven_object_coordinate_finder/blob/master/src/test.png).
-3. Run the [coordinate_finder.py](https://github.com/hafiz-kamilin/uneven_object_coordinate_finder/blob/master/src/coordinate_finder.py).
+2. Name the image as [test.png](https://github.com/hafiz-kamilin/uneven_object_coordinate_finder/blob/master/source/test.png).
+3. Run the [coordinate_finder.py](https://github.com/hafiz-kamilin/uneven_object_coordinate_finder/blob/master/source/coordinate_finder.py).
