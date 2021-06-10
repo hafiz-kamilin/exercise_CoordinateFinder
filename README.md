@@ -3,7 +3,7 @@
 ## Introduction
 
 <p align = "center">
-  <img src = "https://raw.githubusercontent.com/hafiz-kamilin/exercise_CoordinateFinder/master/img/1.png" width = "700" height = "462"/>
+  <img src = "https://raw.githubusercontent.com/hafiz-kamilin/exercise_coordinateFinder/master/source/output.png" width = "700" height = "462"/>
 </p>
 
 This program uses the scanning method to find up, bottom, left, right coordinates of an object. These coordinates which are being represented as pixel and graph coordinates can be used to calculate the center of the object, the object size, etc.
